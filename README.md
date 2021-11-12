@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Jahin Hasan
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jahin44)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jahin-hasan-9aa429197//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/j.jahinhasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14721318/jahin-hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jahinhasan.blogspot.com/2020/01/about-me.html)  
-
 #### Software Developer
 ![Software Developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/69155196_785113925219117_6426321808500195328_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=m1ZBvUdVragAX8sUV6Q&_nc_ht=scontent.fdac99-1.fna&oh=27ddc8eb4968ffafebef5f3c9748018e&oe=61B49311)
 
